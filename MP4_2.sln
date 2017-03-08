@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4_2.CSharp.Plugins", "MP4_2.CSharp.Plugins.csproj", "{7E2C8FF9-E5F7-A344-4E38-BFBF04596D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4_2.CSharp", "MP4_2.CSharp.csproj", "{AD89E257-6DAC-5DCA-DE05-912694DE83FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4_2.CSharp.Editor", "MP4_2.CSharp.Editor.csproj", "{AA32539C-0796-0D13-6E4C-1F86AC2D391A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2C8FF9-E5F7-A344-4E38-BFBF04596D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2C8FF9-E5F7-A344-4E38-BFBF04596D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2C8FF9-E5F7-A344-4E38-BFBF04596D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2C8FF9-E5F7-A344-4E38-BFBF04596D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD89E257-6DAC-5DCA-DE05-912694DE83FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD89E257-6DAC-5DCA-DE05-912694DE83FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD89E257-6DAC-5DCA-DE05-912694DE83FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD89E257-6DAC-5DCA-DE05-912694DE83FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA32539C-0796-0D13-6E4C-1F86AC2D391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA32539C-0796-0D13-6E4C-1F86AC2D391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA32539C-0796-0D13-6E4C-1F86AC2D391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA32539C-0796-0D13-6E4C-1F86AC2D391A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
